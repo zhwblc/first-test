@@ -1,5 +1,5 @@
 <template>
-  <div>上传测试1</div>
+  <div>上传测试2</div>
 </template>
 
 <script>
